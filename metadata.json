@@ -1,0 +1,6 @@
+{
+  "name": "Kimera",
+  "description": "Kimera Atelier AI hair consultation, adaptive style previews, and post-service match validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
